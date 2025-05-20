@@ -15,7 +15,7 @@ $mappingGender = [
         <div class="card-body">
             <h4 class="card-title">Thông tin lớp học</h4>
             <p><strong>Tên lớp: </strong>{{$class->class_name}}</p>
-            <p><strong>Khoa: </strong>{{$class->department}}</p>
+            <p><strong>Tên Khoa: </strong>{{$class->department}}</p>
         </div>
     </div>
 
